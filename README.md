@@ -21,10 +21,10 @@ https://github.com/techie-new/Spring_Kafka_Avro.git
 #### **Step 4:** build docker-compose file in IDE terminal using below command
 **docker-compose up -d --build**
 
-#### **Step 5:** Start spring boot app
+#### **Step 5:** Start spring boot app.
 
 
-
+-------------------------------------------
 
 
 
