@@ -24,6 +24,12 @@ https://github.com/techie-new/Spring_Kafka_Avro.git
 #### **Step 5:** Start spring boot app
 
 
+
+
+
+
+
+
 ### **Troubleshoot steps**
 **Run `docker ps` command to verify all images are running fine.
 
